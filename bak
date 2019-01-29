@@ -1,0 +1,7 @@
+#show{
+  width: 204px;
+  height: 112px;
+  left:1px;
+  background-color: lightgreen;
+  text-align: center;
+}
